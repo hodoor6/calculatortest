@@ -6,7 +6,6 @@
     <input name="name" type="text">
     <button type="submit">Посчитать</button>
 </form>
-
 <?php
 
 class Calculator
@@ -128,8 +127,14 @@ $calculator -> calc($data=$_GET['name']);
 //Создать class validator
 //все класси должни быть инклюдиться
 //какие есть interfe и что в них реализовано
-// создать клас passser
+// создать клас Parser
+
+metod getoperantsing -> перебор метода
+
+//get operant
 //какие методи и где
+
+//создать класс simpleExpression
 ========================
 
 
