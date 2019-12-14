@@ -3,5 +3,7 @@
 
 class iValidator
 {
+ public function Validator(){
 
+ }
 }
